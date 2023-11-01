@@ -5,7 +5,7 @@ This is the submission for an assignment given by Airveda.
 
 ## Run Locally
 
-After installing the project zip file
+After downloading the project zip file
 
 Go to the project directory
 
