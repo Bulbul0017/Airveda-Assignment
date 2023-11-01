@@ -1,6 +1,6 @@
 # Airveda-Assignment
 
-This is the submission for an assignment given by AirVeda.
+This is the submission for an assignment given by Airveda.
 
 
 ## Run Locally
