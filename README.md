@@ -47,6 +47,7 @@ Retrieve or delete a device instance
 ![Screenshot 2](https://github.com/Bulbul0017/Airveda-Assignment/assets/74949576/99138f6e-db36-4492-8093-8b1d977e3165)
 
 Device graph
+![Screenshot 3](https://github.com/Bulbul0017/Airveda-Assignment/assets/74949576/52743219-69eb-457c-9dad-eb90a569988c)
 
 
 
