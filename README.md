@@ -10,7 +10,7 @@ After installing the project zip file
 Go to the project directory
 
 ```bash
-  cd iotproject
+  cd Airveda-Assignment-main
 ```
 
 Install dependencies
