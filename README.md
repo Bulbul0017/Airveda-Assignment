@@ -41,3 +41,7 @@ Run the server
 ## Screenshots
 
 List all devices or create new devices
+![Screenshot 1](https://github.com/Bulbul0017/Airveda-Assignment/assets/74949576/9c8ecfbb-cd1e-455e-bbd4-1ae994e2bd1d)
+
+Retrieve or delete a device instance
+
